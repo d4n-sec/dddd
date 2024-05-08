@@ -1,4 +1,4 @@
-module github.com/SleepingBag945/dddd
+module github.com/d4n-sec/dddd
 
 go 1.21
 
